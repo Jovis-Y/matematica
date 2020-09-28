@@ -1,5 +1,5 @@
 def organizeMatriz(matriz):
-    """organizeMatriz é uma fução que cria duas novas listas para que Det possa retorna o valor desejado, a lógica por trás dele é simples: organizar as diagonais em linhas verticais, perceba que a diagoanal que se forma no 1 - 5 - 9, 2 - 6 - 7 e assim por diante
+    """organizeMatriz é uma função que cria duas novas listas para que Det possa retorna o valor desejado, a lógica por trás dele é simples: organizar as diagonais em linhas verticais, perceba que a diagoanal que se forma no 1 - 5 - 9, 2 - 6 - 7 e assim por diante
 1 2 3       1 2 3       1 2 3
 4 5 6   ->  5 6 4   ->  6 4 5
 7 8 9       9 7 8       8 9 7
